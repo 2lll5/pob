@@ -10,6 +10,8 @@ minimumReleaseAgeExclude:
   - alouette-icons
   - nightingale
   - nightingale-logger
+  # Renovate security update: esbuild@0.28.1
+  - esbuild@0.28.1
 packages:
   - packages/*
   - "@pob/*"
